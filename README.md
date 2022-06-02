@@ -19,7 +19,7 @@ Se ejecutan ciertos escenarios posibles, pero las pruebas no son exhaustivas. Po
 
     Los resultados obtenidos son los siguientes
 
-    ![Alt text](images/preg1.png)
+    ![Alt text](images/preg1.PNG)
 
     Podemos ver que las pruebas "Dado que hay un vuelo de negocios" fallan.
 
@@ -27,8 +27,8 @@ Se ejecutan ciertos escenarios posibles, pero las pruebas no son exhaustivas. Po
 
    Se comprueba si es de tipo "Negocios"
 
-   ![Alt text](images/vuelonegocios.png)
+   ![Alt text](images/vuelonegocios.PNG)
 
    Se instancia un objeto de tipo "Business"
 
-   ![Alt text](images/testAirport1.png)
+   ![Alt text](images/testAirport1.PNG)
