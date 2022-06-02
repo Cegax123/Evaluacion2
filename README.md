@@ -19,7 +19,7 @@ Se ejecutan ciertos escenarios posibles, pero las pruebas no son exhaustivas. Po
 
     Los resultados obtenidos son los siguientes
 
-    ![Alt text](images/preg1.png)
+    ![alt text](images/preg1.png)
 
     Podemos ver que las pruebas "Dado que hay un vuelo de negocios" fallan.
 
@@ -27,8 +27,12 @@ Se ejecutan ciertos escenarios posibles, pero las pruebas no son exhaustivas. Po
 
    Se comprueba si es de tipo "Negocios"
 
-   ![Alt text](images/vuelonegocios.png)
+   ![alt text](images/vuelonegocios.png)
 
    Se instancia un objeto de tipo "Business"
 
    ![Alt text](images/testAirport1.png)
+
+2. ¿Por qué John tiene la necesidad de refactorizar la aplicación?
+
+   Para evitar confundirnos en los nombres del tipo de vuelo, y verificar si existe ese error
