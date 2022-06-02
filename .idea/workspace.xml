@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca615067-c4a2-4bd4-b8aa-0768d9b16696" name="Changes" comment="Pregunta 1">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="ca615067-c4a2-4bd4-b8aa-0768d9b16696" name="Changes" comment="Pregunta 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,7 +88,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1654179615829</updated>
-      <workItem from="1654179618200" duration="4219000" />
+      <workItem from="1654179618200" duration="4513000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1654180278143</created>
@@ -113,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654183887180</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Pregunta 2">
+      <created>1654184118592</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1654184118592</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,6 +139,7 @@
     <MESSAGE value="First commit" />
     <MESSAGE value="Adding Anterior" />
     <MESSAGE value="Pregunta 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pregunta 1" />
+    <MESSAGE value="Pregunta 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pregunta 2" />
   </component>
 </project>
