@@ -36,3 +36,8 @@ Se ejecutan ciertos escenarios posibles, pero las pruebas no son exhaustivas. Po
 2. ¿Por qué John tiene la necesidad de refactorizar la aplicación?
 
    Para evitar confundirnos en los nombres del tipo de vuelo, y verificar si existe ese error
+
+
+3. ¿Por qué John tiene la necesidad de refactorizar la aplicación?
+
+   Para evitar confundirnos en los nombres del tipo de vuelo, y verificar si existe ese error
