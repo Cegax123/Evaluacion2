@@ -4,32 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca615067-c4a2-4bd4-b8aa-0768d9b16696" name="Changes" comment="workspace">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Fase2/BusinessFlight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Fase2/EconomyFlight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Fase2/Flight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Fase2/Passenger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Fase3/BusinessFlight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Fase3/EconomyFlight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Fase3/Flight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Fase3/Passenger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Fase4/BusinessFlight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Fase4/EconomyFlight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Fase4/Flight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Fase4/Passenger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Fase4/PremiumFlight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Fase5/BusinessFlight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Fase5/EconomyFlight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Fase5/Flight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Fase5/Passenger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Fase5/PremiumFlight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Fase2/AirportTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Fase3/AirportTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Fase4/AirportTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Fase5/AirportTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="ca615067-c4a2-4bd4-b8aa-0768d9b16696" name="Changes" comment="Adding phases">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Fase3/BusinessFlight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Fase3/BusinessFlight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Fase3/EconomyFlight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Fase3/EconomyFlight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Fase3/Flight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Fase3/Flight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Fase3/Passenger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Fase3/Passenger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Fase4/BusinessFlight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Fase4/BusinessFlight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Fase4/EconomyFlight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Fase4/EconomyFlight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Fase4/Flight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Fase4/Flight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Fase4/Passenger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Fase4/Passenger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Fase4/PremiumFlight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Fase4/PremiumFlight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Fase5/BusinessFlight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Fase5/BusinessFlight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Fase5/EconomyFlight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Fase5/EconomyFlight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Fase5/Flight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Fase5/Flight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Fase5/Passenger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Fase5/Passenger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Fase5/PremiumFlight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Fase5/PremiumFlight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Fase3/AirportTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Fase3/AirportTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Fase4/AirportTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Fase4/AirportTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Fase5/AirportTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Fase5/AirportTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654467191282</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Adding phases">
+      <created>1654467315497</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1654467315497</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,6 +182,7 @@
     <MESSAGE value="Pregunta 1" />
     <MESSAGE value="Pregunta 2" />
     <MESSAGE value="workspace" />
-    <option name="LAST_COMMIT_MESSAGE" value="workspace" />
+    <MESSAGE value="Adding phases" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding phases" />
   </component>
 </project>

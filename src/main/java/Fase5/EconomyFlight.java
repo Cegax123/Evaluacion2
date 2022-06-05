@@ -1,3 +1,4 @@
+package Fase5;
 
 public class EconomyFlight extends Flight {
 

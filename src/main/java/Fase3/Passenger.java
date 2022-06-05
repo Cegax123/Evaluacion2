@@ -1,3 +1,5 @@
+package Fase3;
+
 public class Passenger {
 
     private String name;

@@ -1,3 +1,5 @@
+package Fase5;
+
 public class BusinessFlight extends Flight {
 
     public BusinessFlight(String id) {
