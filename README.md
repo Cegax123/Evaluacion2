@@ -53,3 +53,18 @@ Por lo que la refactorización se realizó con éxito
 
 ---
 
+
+3. La refactorización y los cambios de la API se propagan a las pruebas.
+   Reescribe el archivo Airport Test de la carpeta Fase 3.
+
+   La refactorización se realizó debido a que en el método de la fase 2 getPassengers() fue modificado a la fase 3 con el nombre de getPassengersList()
+
+*Revise el método getPassengers() de la fase2.*
+![img.png](images/Metodo%20getPassengers()Fase2.png)
+
+*Revise el método getPassengersList() de la fase3*
+![img.png](images/Metodo%20getPassengersList()Fase3.png)
+
+Ahora podemos observar que todas las pruebas pasaron correctamente:
+![img.png](images/testAirport3.png)
+---
