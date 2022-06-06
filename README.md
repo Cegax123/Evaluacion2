@@ -96,10 +96,21 @@ Se implementaron las pruebas para la clase PremiumFlight y vemos que las pruebas
 ![img.png](images/testing_fase4.png)
 
 ---
+
 7. Agrega la lógica comercial solo para pasajeros VIP en la clase
    PremiumFlight. Guarda ese archivo en la carpeta Producción de la Fase 5.
 
    Se implementa la lógica de la clase PremiumFlight la cual cumple con los requisitos 
    establecidos y se comprueba que cumple con el test de la Fase 5.
 ![](images/testAirport5.png)
+
 ---
+
+8. Ayuda a John a crear una nueva prueba para verificar que un pasajero solo se
+   puede agregar una vez a un vuelo. La ejecución de las pruebas ahora es exitosa, con una cobertura de
+   código del 100 %. John ha implementado esta nueva característica en estilo TDD.
+
+   Se implementa el caso de prueba para el caso donde un pasajero regular no sea añadido más de una vez
+   a un vuelo económico dando unas pruebas con covertura al 100%, vemos que la ejecución de las pruebas es exitosa
+
+![img.png](images/testing_preg8.png)

@@ -7,7 +7,7 @@
     <list default="true" id="ca615067-c4a2-4bd4-b8aa-0768d9b16696" name="Changes" comment="Adding phases">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Fase3/BusinessFlight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Fase3/BusinessFlight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Fase5/AirportTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Fase5/AirportTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -247,16 +247,5 @@
     <MESSAGE value="workspace" />
     <MESSAGE value="Adding phases" />
     <option name="LAST_COMMIT_MESSAGE" value="Adding phases" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/Fase5/AirportTest.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
