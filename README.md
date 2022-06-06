@@ -84,3 +84,16 @@ Aquí está el diseño inicial de la clase llamada PremiumFlight, para poder ins
 un objeto en nuestro testingx
 
 ![img.png](images/premiumFlight.png)
+
+---
+
+6. Ayuda a John e implementa las pruebas de acuerdo con la lógica comercial
+   de vuelos premium de las figuras anteriores. Adjunta tu código en la parte que se indica en el código
+   de la Fase 4. Después de escribir las pruebas, John las ejecuta.
+
+Se implementaron las pruebas para la clase PremiumFlight y vemos que las pruebas fallan como es esperado
+
+![img.png](images/testing_fase4.png)
+
+---
+7.
