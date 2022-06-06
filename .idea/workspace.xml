@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca615067-c4a2-4bd4-b8aa-0768d9b16696" name="Changes" comment="Adding phases">
-      <change afterPath="$PROJECT_DIR$/images/testing_fase4.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Fase4/AirportTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Fase4/AirportTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Fase3/BusinessFlight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Fase3/BusinessFlight.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +75,7 @@
       <recent name="D:\Tarea\Evaluacion2\premiumFlight" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.AirportTest (3)">
+  <component name="RunManager" selected="JUnit.AirportTest (4)">
     <configuration name="AirportTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Evaluacion2" />
       <extension name="coverage">
@@ -122,6 +121,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="AirportTest (4)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Evaluacion2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Fase5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Fase5" />
+      <option name="MAIN_CLASS_NAME" value="Fase5.AirportTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="AirportTest$EconomyFlightTest.testEconomyFlightRegularPassenger" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Evaluacion2" />
       <extension name="coverage">
@@ -138,28 +152,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AirportTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Evaluacion2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Fase1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Fase1" />
-      <option name="MAIN_CLASS_NAME" value="Fase1.AirportTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.AirportTest (4)" />
         <item itemvalue="JUnit.AirportTest (3)" />
         <item itemvalue="JUnit.AirportTest (2)" />
         <item itemvalue="JUnit.AirportTest$EconomyFlightTest.testEconomyFlightRegularPassenger" />
         <item itemvalue="JUnit.AirportTest (1)" />
-        <item itemvalue="JUnit.AirportTest" />
       </list>
     </recent_temporary>
   </component>
@@ -248,5 +247,16 @@
     <MESSAGE value="workspace" />
     <MESSAGE value="Adding phases" />
     <option name="LAST_COMMIT_MESSAGE" value="Adding phases" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Fase5/AirportTest.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

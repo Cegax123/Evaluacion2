@@ -96,4 +96,10 @@ Se implementaron las pruebas para la clase PremiumFlight y vemos que las pruebas
 ![img.png](images/testing_fase4.png)
 
 ---
-7.
+7. Agrega la lógica comercial solo para pasajeros VIP en la clase
+   PremiumFlight. Guarda ese archivo en la carpeta Producción de la Fase 5.
+
+   Se implementa la lógica de la clase PremiumFlight la cual cumple con los requisitos 
+   establecidos y se comprueba que cumple con el test de la Fase 5.
+![](images/testAirport5.png)
+---

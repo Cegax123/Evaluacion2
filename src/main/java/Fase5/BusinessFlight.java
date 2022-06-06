@@ -1,4 +1,4 @@
-package Fase3;
+package Fase5;
 
 public class BusinessFlight extends Flight {
 
@@ -18,4 +18,5 @@ public class BusinessFlight extends Flight {
     public boolean removePassenger(Passenger passenger) {
         return false;
     }
+
 }
