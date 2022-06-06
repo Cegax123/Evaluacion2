@@ -77,4 +77,10 @@ es considerado redundante y tiene que ser refactorizado en un nuevo procedimient
 
 ---
 
+5. Escribe el diseño inicial de la clase llamada PremiumFlight y agrega a la
+   Fase 4 en la carpeta producción.
 
+Aquí está el diseño inicial de la clase llamada PremiumFlight, para poder instanciar 
+un objeto en nuestro testingx
+
+![img.png](images/premiumFlight.png)
