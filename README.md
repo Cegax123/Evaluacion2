@@ -67,4 +67,14 @@ Por lo que la refactorización se realizó con éxito
 
 Ahora podemos observar que todas las pruebas pasaron correctamente:
 ![img.png](images/testAirport3.png)
+
 ---
+
+4. ¿En qué consiste está regla relacionada a la refactorización?.
+
+El código tiene que ser refactorizado para evitar la duplicación. La regla indica que si existen tres o más piezas de código similar
+es considerado redundante y tiene que ser refactorizado en un nuevo procedimiento. Es válido tener dos piezas de código similar.
+
+---
+
+
